@@ -9,7 +9,7 @@ any pixel on screen.
 Activate with `Shift`-`Cmd`-`C` or from the context-menu of your editor (right-click).
 Inserts or replaces the currently selected text with the selected color, in hexadecimal form.
 
-![OS X Native Color Picker](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![OS X Native Color Picker](https://raw.githubusercontent.com/gregerolsson/native-color-picker/master/screenshot/native-color-picker.png)
 
 ## Roadmap
 
