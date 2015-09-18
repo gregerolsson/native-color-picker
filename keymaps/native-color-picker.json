@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "shift-cmd-c": "native-color-picker:pick"
+  }
+}

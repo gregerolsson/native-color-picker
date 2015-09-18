@@ -1,0 +1,21 @@
+{
+  "name": "native-color-picker",
+  "main": "./lib/native-color-picker",
+  "version": "0.0.0",
+  "description": "OS X native color picker",
+  "keywords": [
+  ],
+  "activationEvents": [
+    "native-color-picker:pick"
+  ],
+  "activationCommands": {
+    "atom-workspace": "native-color-picker:pick"
+  },
+  "repository": "https://github.com/gregerolsson/native-color-picker.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

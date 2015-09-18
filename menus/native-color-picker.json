@@ -1,0 +1,26 @@
+{
+  "context-menu":  {
+    "atom-text-editor": [
+      {
+        "label": "Pick Color",
+        "command": "native-color-picker:pick"
+      }
+    ],
+    "menu": [
+      {
+        "label": "Packages",
+        "submenu": [
+          {
+            "label": "Color Picker",
+            "submenu": [
+              {
+                "label": "Pick Color",
+                "command": "native-color-picker:pick"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
