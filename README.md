@@ -9,6 +9,10 @@ any pixel on screen.
 Activate with `Shift`-`Cmd`-`C` or from the context-menu of your editor (right-click).
 Inserts or replaces the currently selected text with the selected color, in hexadecimal form.
 
+The picker is seeded with the color in the current editor selection (only hexadecimal
+form is supported at the moment). If you have a text like `#ff88ee` or `ff88ee` selected
+in the editor and activate the picker, the color picker with be seeded with **#ff88ee**.
+
 ![OS X Native Color Picker](https://raw.githubusercontent.com/gregerolsson/native-color-picker/master/screenshot/native-color-picker.png)
 
 ## Roadmap
@@ -16,6 +20,6 @@ Inserts or replaces the currently selected text with the selected color, in hexa
 * Make the insertion mechanism a little smarter so it detects if a
   color is already under the cursor; the color text will be automatically selected
   and replaced when picking.
-* Seed the picker with any color already under the cursor
+* ~~Seed the picker with any color already under the cursor~~
 * Use the same color format during insertion, as any color already under the cursor
 * Allow only bright pink to be picked.
