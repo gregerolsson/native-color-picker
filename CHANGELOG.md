@@ -1,3 +1,7 @@
+# 0.2.1 - Hash and semi-colon insertion.
+
+Hash and semi-colons are now inserted when selecting a color. Thanks to owainharris (GH) for PR.
+
 ## 0.2.0 - Beginnings of context sensitive picking
 
 * The picker is now seeded with the color in the editor selection.
