@@ -1,7 +1,7 @@
 {
   "name": "native-color-picker",
   "main": "./lib/native-color-picker",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "OS X native color picker",
   "keywords": [],
   "activationEvents": [
